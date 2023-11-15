@@ -9,3 +9,4 @@ pipeline {
 
   }
 }
+/* style inputs and link buttons */
